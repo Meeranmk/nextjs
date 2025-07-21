@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nextjs
+  description: |
+    No description provided
+  annotations:
+    github.com/project-slug: Meeranmk/nextjs
+  links:
+    - title: Repository
+      url: https://github.com/Meeranmk/nextjs
+spec:
+  type: service
+  lifecycle: production
+  owner: user:Meeranmk
